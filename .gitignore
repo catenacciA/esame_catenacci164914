@@ -1,3 +1,4 @@
 *.pkl
 *.txt
 .DS_Store
+.idea
